@@ -39,8 +39,9 @@ Data on 200+ rows on Inpatient(Admitted for more than a day) and outpatient(for 
 • Impact & Insights: Track the current waiting list by their case type , speciality, age and by these dashboard we can understand where to focus and to invest to decrease the waiting list .
 
 # Screenshots / Demos
-1. Summary Dashboard !(https://github.com/Shivam-khirwal/patient-waitlist/blob/main/Snapshot%20of%20the%20Dashboard%20-%20Summary.png)
+1. Summary Dashboard (https://github.com/Shivam-khirwal/patient-waitlist/blob/main/Snapshot%20of%20the%20Dashboard%20-%20Summary.png)
 
-   
+   <img width="1304" height="723" alt="Snapshot of the Dashboard - Summary" src="https://github.com/user-attachments/assets/4b8f62c3-7a07-4ded-a255-cb44ebd74fa4" />
+
    
    
